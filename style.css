@@ -1,0 +1,458 @@
+.email {
+    margin-top: 40px;
+    margin-left: -850px;
+}
+
+.gmail {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: black;
+}
+
+.cell {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: black;
+}
+
+.phone {
+    margin-top: 3px;
+    margin-left: -850px;
+}
+
+.rounded {
+    margin-top: -100px;
+}
+
+.id {
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+nav {
+    background-color: blue;
+    margin-top: 70px;
+    height: 40px;
+    position: fixed;
+}
+
+nav ul li {
+    display: inline;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bolder;
+    line-height: 40px;
+}
+
+nav ul li a:hover {
+    border-radius: 40px;
+    background-color: rgb(72, 72, 240);
+}
+
+#ship {
+    height: 500px;
+    max-width: 100%;
+    /* margin-top: 250px; */
+}
+
+.box2 {
+    background-image: url(ship4\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.head {
+    font-size: 45px;
+    font-weight: bolder;
+    color: white;
+    margin-left: 250px;
+    position: relative;
+    top: 100px;
+}
+
+.head:hover {
+    color: navy;
+}
+
+.para {
+    color: white;
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 100px;
+}
+
+.para:hover {
+    color: blue;
+}
+
+.read {
+    color: white;
+}
+
+.read:hover {
+    color: red;
+}
+
+.box3 {
+    background-image: url(ship3\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.box4 {
+    display: flex;
+    /* margin-left: 80px; */
+    margin-top: -17px;
+    position: relative;
+    top: -260px;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card5 {
+    width: 21rem;
+    background-color: black;
+    color: white;
+}
+
+.card10 {
+    width: 21rem;
+    background-color: aqua;
+    color: #000205;
+}
+
+.card5 img {
+    height: 280px;
+    width: 100%;
+}
+
+.card10 img {
+    height: 280px;
+    width: 100%;
+}
+
+.box5 {
+    background-image: url(ship3\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.box6 {
+    margin-top: 20px;
+    position: relative;
+    top: -250px;
+}
+
+.box8 {
+    height: 300px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 500px;
+}
+
+.help {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    color: navy;
+    margin-top: 50px;
+}
+
+.box9 {
+    height: 500px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: blue;
+    margin-top: 50px;
+}
+
+.div1 h1 {
+    font-size: 25px;
+    position: relative;
+    color: black;
+}
+
+.div1 h2 {
+    font-size: 16px;
+    position: relative;
+    color: white;
+}
+
+
+/* .box10 {
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: blue;
+} */
+
+.div2 h1 {
+    font-size: 25px;
+    position: relative;
+    color: black;
+}
+
+.div2 h2 {
+    font-size: 16px;
+    position: relative;
+    color: white;
+}
+
+
+/* .box11 {
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: blue;
+} */
+
+.div3 h1 {
+    font-size: 23px;
+    position: relative;
+    top: -10px;
+    color: rgb(17, 17, 17);
+}
+
+.div3 h2 {
+    font-size: 14px;
+    position: relative;
+    top: -20px;
+    color: white;
+}
+
+.div1 i:hover {
+    box-shadow: 1px 1px 1px 1px green;
+    background-color: green;
+}
+
+.div2 i:hover {
+    box-shadow: 1px 1px 1px 1px green;
+    background-color: green;
+}
+
+.div3 i:hover {
+    box-shadow: 1px 1px 1px 1px green;
+    background-color: green;
+}
+
+#avatar {
+    height: 150px;
+    width: 70px;
+    position: relative;
+    top: 90px
+}
+
+.boxes {
+    height: 400px;
+    width: 100%;
+    border: 2px solid gray;
+    background-color: cadetblue;
+}
+
+.name {
+    position: relative;
+    top: 10px;
+    left: 750px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.bold {
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    color: navy;
+}
+
+.bolder {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+.long {
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 50px;
+    position: relative;
+    top: 30px;
+    color: navy;
+}
+
+.short {
+    font-size: 18px;
+    font-weight: normal;
+    margin-left: 50px;
+    position: relative;
+    top: 60px;
+}
+
+.box12 {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.box13 {
+    border: 1px solid black;
+    height: 60px;
+    width: 120px;
+    padding: 15px;
+    margin-left: 20px;
+    display: inline;
+}
+
+.box13:hover {
+    background-color: rgb(77, 59, 243);
+}
+
+.box14 {
+    margin-top: 120px;
+}
+
+.box15 {
+    height: 450px;
+    width: 500px;
+    margin-left: 750px;
+    margin-top: -250px;
+    background-color: lightcyan;
+}
+
+.box16 {
+    height: 400px;
+    width: 440px;
+    background-color: rgb(40, 43, 43);
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.form {
+    color: white;
+}
+
+.form-group {
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+
+.submit {
+    margin-left: 200px;
+    height: 40px;
+    width: 100px;
+}
+
+.submit:hover {
+    background-color: orangered;
+}
+
+.box18 {
+    margin-top: 1300px;
+}
+
+.box17 {
+    height: 400px;
+    width: 100%;
+    background-color: rgb(233, 227, 220);
+}
+
+.services,
+.links,
+.us,
+.follow {
+    display: inline-block;
+    margin-left: 60px;
+    font-weight: bold;
+    margin-top: 100px;
+    color: navy;
+}
+
+.services {
+    position: relative;
+    top: -40px;
+}
+
+.services a {
+    font-size: medium;
+    color: black;
+    font-weight: lighter;
+}
+
+.links {
+    position: relative;
+    top: -40px;
+}
+
+.links a {
+    font-size: medium;
+    color: black;
+    font-weight: lighter;
+}
+
+.us {
+    position: relative;
+    top: 10px;
+}
+
+.us a {
+    font-size: medium;
+    color: black;
+    font-weight: lighter;
+}
+
+.box20 {
+    margin-left: -40px;
+    margin-top: 30px;
+}
+
+.box19 {
+    border: 1px solid black;
+    height: 60px;
+    width: 120px;
+    padding: 15px;
+    margin-left: 20px;
+    display: inline;
+}
+
+.box19:hover {
+    background-color: rgb(72, 72, 238);
+}
+
+.follow {
+    position: relative;
+    top: -80px;
+}
+
+.footer {
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+}
